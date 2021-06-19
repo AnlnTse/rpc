@@ -1,9 +1,9 @@
-package com.luban.protocol.http;
+package com.xiejun.protocol.http;
 
 import com.alibaba.fastjson.JSONObject;
-import com.luban.framework.Invocation;
+import com.xiejun.framework.Invocation;
 import org.apache.commons.io.IOUtils;
-import com.luban.provider.LocalRegister;
+import com.xiejun.provider.LocalRegister;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

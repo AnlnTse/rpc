@@ -1,6 +1,6 @@
-package com.luban.protocol.dubbo;
+package com.xiejun.protocol.dubbo;
 
-import com.luban.framework.Invocation;
+import com.xiejun.framework.Invocation;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 

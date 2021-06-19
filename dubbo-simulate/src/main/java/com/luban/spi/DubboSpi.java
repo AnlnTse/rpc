@@ -1,7 +1,7 @@
-package com.luban.spi;
+package com.xiejun.spi;
 
-import com.luban.framework.Protocol;
-import com.luban.framework.URL;
+import com.xiejun.framework.Protocol;
+import com.xiejun.framework.URL;
 import org.apache.dubbo.common.extension.ExtensionLoader;
 
 public class DubboSpi {

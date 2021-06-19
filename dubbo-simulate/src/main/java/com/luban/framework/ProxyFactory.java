@@ -1,6 +1,6 @@
-package com.luban.framework;
+package com.xiejun.framework;
 
-import com.luban.register.RemoteMapRegister;
+import com.xiejun.register.RemoteMapRegister;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,7 +1,7 @@
-package com.luban.register;
+package com.xiejun.register;
 
 import com.alibaba.fastjson.JSONObject;
-import com.luban.framework.URL;
+import com.xiejun.framework.URL;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.RetryNTimes;

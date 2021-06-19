@@ -1,2 +1,2 @@
-http=com.luban.protocol.http.HttpProtocol
-dubbo=com.luban.protocol.dubbo.DubboProtocol
+http=com.xiejun.protocol.http.HttpProtocol
+dubbo=com.xiejun.protocol.dubbo.DubboProtocol

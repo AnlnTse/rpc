@@ -1,6 +1,6 @@
-package com.luban.provider.impl;
+package com.xiejun.provider.impl;
 
-import com.luban.provider.api.HelloService;
+import com.xiejun.provider.api.HelloService;
 
 public class HelloServiceImpl implements HelloService {
 

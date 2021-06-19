@@ -1,4 +1,4 @@
-package com.luban.framework;
+package com.xiejun.framework;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.luban.provider;
+package com.xiejun.provider;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

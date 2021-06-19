@@ -1,8 +1,8 @@
-package com.luban.provider;
+package com.xiejun.provider;
 
 import com.alibaba.fastjson.JSONObject;
-import com.luban.api.ProviderServiceInterface;
-import com.luban.api.User;
+import com.xiejun.api.ProviderServiceInterface;
+import com.xiejun.api.User;
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.stereotype.Service;
 

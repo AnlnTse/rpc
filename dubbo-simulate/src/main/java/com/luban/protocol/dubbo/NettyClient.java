@@ -1,6 +1,6 @@
-package com.luban.protocol.dubbo;
+package com.xiejun.protocol.dubbo;
 
-import com.luban.framework.Invocation;
+import com.xiejun.framework.Invocation;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelOption;

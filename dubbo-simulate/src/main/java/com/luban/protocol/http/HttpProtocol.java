@@ -1,8 +1,8 @@
-package com.luban.protocol.http;
+package com.xiejun.protocol.http;
 
-import com.luban.framework.Invocation;
-import com.luban.framework.Protocol;
-import com.luban.framework.URL;
+import com.xiejun.framework.Invocation;
+import com.xiejun.framework.Protocol;
+import com.xiejun.framework.URL;
 
 public class HttpProtocol implements Protocol {
 

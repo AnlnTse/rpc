@@ -1,9 +1,9 @@
-package com.luban.comsumer;
+package com.xiejun.comsumer;
 
-import com.luban.framework.Invocation;
-import com.luban.framework.ProxyFactory;
-import com.luban.protocol.http.HttpClient;
-import com.luban.provider.api.HelloService;
+import com.xiejun.framework.Invocation;
+import com.xiejun.framework.ProxyFactory;
+import com.xiejun.protocol.http.HttpClient;
+import com.xiejun.provider.api.HelloService;
 
 public class Consumer {
 

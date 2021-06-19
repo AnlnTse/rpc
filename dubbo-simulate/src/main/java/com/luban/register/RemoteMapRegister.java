@@ -1,6 +1,6 @@
-package com.luban.register;
+package com.xiejun.register;
 
-import com.luban.framework.URL;
+import com.xiejun.framework.URL;
 
 import java.io.*;
 import java.util.*;

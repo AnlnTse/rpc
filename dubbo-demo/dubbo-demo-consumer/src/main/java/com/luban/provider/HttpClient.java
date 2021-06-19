@@ -1,4 +1,4 @@
-package com.luban.provider;
+package com.xiejun.provider;
 
 import org.apache.http.HttpStatus;
 import org.apache.http.client.methods.CloseableHttpResponse;

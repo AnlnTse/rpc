@@ -1,7 +1,7 @@
-package com.luban.framework;
+package com.xiejun.framework;
 
-import com.luban.protocol.dubbo.DubboProtocol;
-import com.luban.protocol.http.HttpProtocol;
+import com.xiejun.protocol.dubbo.DubboProtocol;
+import com.xiejun.protocol.http.HttpProtocol;
 
 public class ProtocolFactory {
 

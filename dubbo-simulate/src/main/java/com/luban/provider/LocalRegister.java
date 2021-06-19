@@ -1,4 +1,4 @@
-package com.luban.provider;
+package com.xiejun.provider;
 
 import java.util.HashMap;
 import java.util.Map;

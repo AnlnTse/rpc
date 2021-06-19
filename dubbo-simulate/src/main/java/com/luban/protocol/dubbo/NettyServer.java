@@ -1,4 +1,4 @@
-package com.luban.protocol.dubbo;
+package com.xiejun.protocol.dubbo;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelInitializer;

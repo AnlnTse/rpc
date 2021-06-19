@@ -1,8 +1,8 @@
-package com.luban.spi;
+package com.xiejun.spi;
 
-import com.luban.framework.Protocol;
-import com.luban.framework.URL;
-import com.luban.provider.api.HelloService;
+import com.xiejun.framework.Protocol;
+import com.xiejun.framework.URL;
+import com.xiejun.provider.api.HelloService;
 
 import java.util.Iterator;
 import java.util.ServiceLoader;

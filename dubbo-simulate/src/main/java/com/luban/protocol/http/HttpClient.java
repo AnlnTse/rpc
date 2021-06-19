@@ -1,7 +1,7 @@
-package com.luban.protocol.http;
+package com.xiejun.protocol.http;
 
 import com.alibaba.fastjson.JSONObject;
-import com.luban.framework.Invocation;
+import com.xiejun.framework.Invocation;
 
 import java.io.IOException;
 import java.net.MalformedURLException;

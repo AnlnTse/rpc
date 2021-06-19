@@ -1,4 +1,4 @@
-package com.luban.provider.api;
+package com.xiejun.provider.api;
 
 public interface HelloService {
 
